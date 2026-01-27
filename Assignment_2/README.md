@@ -22,7 +22,7 @@ z = x + a_r * sin(b_r * x)
 where:
 - a_r = 0.5 * (r mod 7)
 - b_r = 0.3 * ((r mod 5) + 1)
-- r is the university roll number
+- r is the university roll number which mine case is 102303808
 
 This nonlinear transformation introduces oscillations and makes the probability
 distribution of z analytically unknown.
